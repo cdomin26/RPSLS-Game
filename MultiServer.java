@@ -1,10 +1,10 @@
 package src.project4;
 
 /*
-Jhon Nunez
+Jhon Nunez, Christian Dominguez, Joseph Canning
 University of Illinois
 CS342 Software Design
-Project 3: Rock, Paper, Scissors, Lizard, Spock
+Project 4: Rock, Paper, Scissors, Lizard, Spock(Multiplayer Mode)
 */
 
 //package p3_server;
